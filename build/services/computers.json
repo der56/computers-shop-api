@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "date": "2017-01-01",
+        "state": "bad",
+        "powerSupply": "200w",
+        "password": "comp-pasword1234"
+    },
+    {
+        "id": 2,
+        "date": "2017-04-01",
+        "state": "ok",
+        "powerSupply": "500w",
+        "password": "passwordIndecipher@ble1243"
+    },
+    {
+        "id": 3,
+        "date": "2017-04-15",
+        "state": "very good",
+        "powerSupply": "750w",
+        "password": "juan-jk24"
+    },
+    {
+        "id": 4,
+        "date": "2017-05-11",
+        "state": "too good",
+        "powerSupply": "1200w",
+        "password": "c126as5"
+    }
+]
